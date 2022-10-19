@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my vehicle dashboard project
 
-You can use the [editor on GitHub](https://github.com/Eas94/dash/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!--You can use the [editor on GitHub](https://github.com/Eas94/dash/edit/master/README.md) to maintain and preview the content for your website in Markdown files.-->
 
+
+### Hardware
+
+The project will be equipped with a [Waveshare 7.9" IPS touch display](https://www.waveshare.com/product/raspberry-pi/displays/7.9inch-dsi-lcd.htm) with the resolution 400x1280, for a sleek aspect ratio of 16:5. This will be driven by a Raspberry Pi, hopefully equipped with radar distance sensors and an OBD-II reader. Perhaps even a Nvidia Jetson and cameras for features such as lane keeping alert, road surface condition estimation, and more.
+
+
+<!---
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
@@ -26,7 +34,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
