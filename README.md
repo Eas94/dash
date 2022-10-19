@@ -7,7 +7,7 @@ Besides indicating vehicle speed and other common driver information, ambition i
 
 ### Hardware
 
-The project will be equipped with a [Waveshare 7.9" IPS touch display](https://www.waveshare.com/product/raspberry-pi/displays/7.9inch-dsi-lcd.htm) with the resolution 400x1280, for a sleek aspect ratio of 16:5. This will be driven by a Raspberry Pi, hopefully equipped with radar distance sensors and an OBD-II reader. Nvidia Jetson or similar is needed if image analysis is to be implemented.
+The project will be equipped with a [Waveshare 7.9" IPS touch display](https://www.waveshare.com/product/raspberry-pi/displays/7.9inch-dsi-lcd.htm) with the resolution 1280x400, for a sleek aspect ratio of 16:5. This will be driven by a Raspberry Pi, hopefully equipped with radar distance sensors and an OBD-II reader. Nvidia Jetson or similar is needed if image analysis is to be implemented.
 
 ### Software
 Further research is needed here, but Python will be used for drafting code. Trafikverket's [Lastkajen](https://lastkajen.trafikverket.se) will supply geospatial vector data for map features.
